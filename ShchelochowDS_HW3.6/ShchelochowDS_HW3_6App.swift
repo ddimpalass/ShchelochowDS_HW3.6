@@ -11,7 +11,7 @@ import SwiftUI
 struct ShchelochowDS_HW3_6App: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            TabViews()
         }
     }
 }

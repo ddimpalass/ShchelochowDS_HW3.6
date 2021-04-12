@@ -11,6 +11,12 @@
 		184715AC262421C2003D54CF /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 184715AB262421C2003D54CF /* ContentView.swift */; };
 		184715AE262421C4003D54CF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 184715AD262421C4003D54CF /* Assets.xcassets */; };
 		184715B1262421C4003D54CF /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 184715B0262421C4003D54CF /* Preview Assets.xcassets */; };
+		184715BB26242303003D54CF /* TabViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 184715BA26242303003D54CF /* TabViews.swift */; };
+		184715BE26242317003D54CF /* ShapesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 184715BD26242317003D54CF /* ShapesView.swift */; };
+		184715C126242324003D54CF /* GradientRectangles.swift in Sources */ = {isa = PBXBuildFile; fileRef = 184715C026242324003D54CF /* GradientRectangles.swift */; };
+		184715C426242330003D54CF /* PathView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 184715C326242330003D54CF /* PathView.swift */; };
+		184715C72624233D003D54CF /* CurvesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 184715C62624233D003D54CF /* CurvesView.swift */; };
+		184715CB2624257E003D54CF /* MyShapeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 184715CA2624257E003D54CF /* MyShapeView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +26,12 @@
 		184715AD262421C4003D54CF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		184715B0262421C4003D54CF /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		184715B2262421C4003D54CF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		184715BA26242303003D54CF /* TabViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabViews.swift; sourceTree = "<group>"; };
+		184715BD26242317003D54CF /* ShapesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapesView.swift; sourceTree = "<group>"; };
+		184715C026242324003D54CF /* GradientRectangles.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientRectangles.swift; sourceTree = "<group>"; };
+		184715C326242330003D54CF /* PathView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PathView.swift; sourceTree = "<group>"; };
+		184715C62624233D003D54CF /* CurvesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CurvesView.swift; sourceTree = "<group>"; };
+		184715CA2624257E003D54CF /* MyShapeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyShapeView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +66,12 @@
 			children = (
 				184715A9262421C2003D54CF /* ShchelochowDS_HW3_6App.swift */,
 				184715AB262421C2003D54CF /* ContentView.swift */,
+				184715BA26242303003D54CF /* TabViews.swift */,
+				184715BD26242317003D54CF /* ShapesView.swift */,
+				184715C026242324003D54CF /* GradientRectangles.swift */,
+				184715C326242330003D54CF /* PathView.swift */,
+				184715C62624233D003D54CF /* CurvesView.swift */,
+				184715CA2624257E003D54CF /* MyShapeView.swift */,
 				184715AD262421C4003D54CF /* Assets.xcassets */,
 				184715B2262421C4003D54CF /* Info.plist */,
 				184715AF262421C4003D54CF /* Preview Content */,
@@ -139,7 +157,13 @@
 			buildActionMask = 2147483647;
 			files = (
 				184715AC262421C2003D54CF /* ContentView.swift in Sources */,
+				184715C72624233D003D54CF /* CurvesView.swift in Sources */,
+				184715C426242330003D54CF /* PathView.swift in Sources */,
+				184715C126242324003D54CF /* GradientRectangles.swift in Sources */,
 				184715AA262421C2003D54CF /* ShchelochowDS_HW3_6App.swift in Sources */,
+				184715BE26242317003D54CF /* ShapesView.swift in Sources */,
+				184715CB2624257E003D54CF /* MyShapeView.swift in Sources */,
+				184715BB26242303003D54CF /* TabViews.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
